@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/harshspanchal" target="blank"><img src="https://img.shields.io/twitter/follow/harshspanchal?logo=twitter&style=for-the-badge" alt="harshspanchal" /></a> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning **MERN Stack, DSA**<br>👯 I’m looking to collaborate on **Actively seeking collaboration on innovative web projects and open-source initiatives. Let's build something amazing together!**<br>💬 Ask me about **web development, best coding practices, or anything tech-related. I'm here to share and learn together!**<br>📫 How to reach me **panchal.harsh2022@gmail.com**<br>📄 Know about my experiences [https://drive.google.com/file/d/1FtnPLUdXeVzn8g0dCou_UaJ-bCrhpfxO/view?usp=drive_link](https://drive.google.com/file/d/1FtnPLUdXeVzn8g0dCou_UaJ-bCrhpfxO/view?usp=drive_link)<br>⚡ Fun fact **I once coded an entire application using just my smartphone during a power outage!**
+🌱 I’m currently learning **MERN Stack, DSA**<br>👯 I’m looking to collaborate on **Actively seeking collaboration on innovative web projects and open-source initiatives. Let's build something amazing together!**<br>💬 Ask me about **web development, best coding practices, or anything tech-related. I'm here to share and learn together!**<br>📫 How to reach me **panchal.harsh2022@gmail.com**<br>📄 Know about my experiences [https://drive.google.com/file/d/1FtnPLUdXeVzn8g0dCou_UaJ-bCrhpfxO/view?usp=drive_link](https://drive.google.com/file/d/1ABmP8eh31yj3QDz2Bm4dH3L1JkK7w6wR/view?usp=drive_link)<br>⚡ Fun fact **I once coded an entire application using just my smartphone during a power outage!**
 
 
 ## 🌐 Socials:
